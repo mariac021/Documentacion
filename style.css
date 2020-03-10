@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Satisfy&display=swap');
+.text{
+    color: white;
+}
+.text:hover{
+    color: violet;
+}
+p, h3, h5, li{
+    display: flex;
+    margin: auto;
+    text-align: center;
+}
+section{
+    background-color: black;
+    border-radius: 10px;
+    
+}
+.bodyfont{
+    background-color: violet;
+    
+}
+h5, h3{
+    font-family: 'Satisfy';
+}
+.menucolor{
+    background-color: black;
+}
+img{
+    display: flex;
+    margin: auto;
+    align-items: center;
+    border-radius: 10px;
+}
+.align{
+    align-items: baseline;
+}
+h3{
+    color: violet;
+}
+.parrafo{
+    padding-top: 10px;
+}
