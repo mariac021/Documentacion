@@ -1,42 +1,55 @@
-@import url('https://fonts.googleapis.com/css?family=Satisfy&display=swap');
-.text{
-    color: white;
+@import url("https://fonts.googleapis.com/css?family=Satisfy&display=swap");
+.text {
+  color: plum;
 }
-.text:hover{
-    color: violet;
+.text:hover {
+  color: violet;
 }
-p, h3, h5, li{
-    display: flex;
-    margin: auto;
-    text-align: center;
+p,
+h3,
+h5,
+li {
+  display: block;
+  margin: auto;
+  line-height: auto;
 }
-section{
-    background-color: black;
-    border-radius: 10px;
-    
+section {
+  border-radius: 10px;
+  background-color: gray;
 }
-.bodyfont{
-    background-color: violet;
-    
+.bodyfont {
+  background-color: black;
 }
-h5, h3{
-    font-family: 'Satisfy';
+h5,
+h3 {
+  font-family: "Satisfy";
 }
-.menucolor{
-    background-color: black;
+.menucolor {
+  background-color: black;
 }
-img{
-    display: flex;
-    margin: auto;
-    align-items: center;
-    border-radius: 10px;
+img {
+  display: flex;
+
+  border-radius: 10px;
 }
-.align{
-    align-items: baseline;
+.align {
+  align-items: baseline;
 }
-h3{
-    color: violet;
+h3 {
+  color: plum;
+  text-align: center;
 }
-.parrafo{
-    padding-top: 10px;
+.parrafo {
+  padding-top: 10px;
+}
+.font {
+  background-color: gray;
+  color: plum;
+}
+.margenes {
+  margin-left: 350px;
+}
+.cos1 {
+  margin-top: 30px;
+  height: 700px;
 }
